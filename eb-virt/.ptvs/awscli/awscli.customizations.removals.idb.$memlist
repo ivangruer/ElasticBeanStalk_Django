@@ -1,0 +1,6 @@
+partial
+_remove_commands
+register_removals
+logging
+LOG
+CommandRemover

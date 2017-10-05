@@ -1,0 +1,3 @@
+alias_mturk_command
+make_hidden_command_alias
+register_alias_mturk_command

@@ -1,0 +1,6 @@
+register_gamelift_commands
+getlog
+GetGameSessionLogCommand
+UploadBuildCommand
+uploadbuild
+inject_commands

@@ -1,0 +1,16 @@
+register_lambda_create_function
+CLIArgument
+_should_contain_zip_content
+copy
+closing
+CustomArgument
+ERROR_MSG
+six
+zipfile
+utils
+_extract_code_and_zip_file_arguments
+ZIP_DOCSTRING
+CodeArgument
+validate_is_zip_file
+ZipFileArgument
+_modify_zipfile_docstring

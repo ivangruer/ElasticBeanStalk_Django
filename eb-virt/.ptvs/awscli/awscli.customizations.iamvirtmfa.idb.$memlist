@@ -1,0 +1,9 @@
+IAMVMFAWrapper
+base64
+resolve_given_outfile_path
+OUTPUT_HELP
+CHOICES
+StatefulArgument
+FileArgument
+BOOTSTRAP_HELP
+is_parsed_result_successful

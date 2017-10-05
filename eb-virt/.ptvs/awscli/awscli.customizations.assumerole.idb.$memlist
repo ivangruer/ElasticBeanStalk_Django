@@ -1,0 +1,8 @@
+JSONFileCache
+os
+LOG
+logging
+json
+register_assume_role_provider
+ProfileNotFound
+inject_assume_role_provider_cache

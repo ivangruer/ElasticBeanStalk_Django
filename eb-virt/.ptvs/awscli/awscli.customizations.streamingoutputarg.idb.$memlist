@@ -1,0 +1,6 @@
+StreamingOutputArgument
+add_streaming_output_arg
+_has_streaming_output
+BaseCLIArgument
+Shape
+_get_streaming_argument_name

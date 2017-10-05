@@ -1,0 +1,15 @@
+ssh
+register_commands
+override_args_required_option
+modify_tags_argument
+modify_list_clusters_argument
+TerminateClusters
+AddInstanceGroups
+CreateDefaultRoles
+hbase
+emr_initialize
+CreateCluster
+AddSteps
+DescribeCluster
+InstallApplications
+ModifyClusterAttr

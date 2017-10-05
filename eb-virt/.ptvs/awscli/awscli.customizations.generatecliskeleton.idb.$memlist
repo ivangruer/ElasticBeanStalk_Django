@@ -1,0 +1,12 @@
+Stubber
+OverrideRequiredArgsArgument
+ArgumentGenerator
+StubbedCLIOperationCaller
+json
+CLIOperationCaller
+xform_name
+add_generate_skeleton
+json_encoder
+GenerateCliSkeletonArgument
+sys
+register_generate_cli_skeleton

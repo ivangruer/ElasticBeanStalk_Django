@@ -1,0 +1,5 @@
+add_get_status
+GetStatusCommand
+register_get_status
+sys
+BasicCommand

@@ -1,0 +1,5 @@
+register_sync_strategies
+ExactTimestampsSync
+SizeOnlySync
+register_sync_strategy
+DeleteSync

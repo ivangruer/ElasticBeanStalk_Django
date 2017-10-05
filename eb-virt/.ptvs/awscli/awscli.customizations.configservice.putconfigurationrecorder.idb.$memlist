@@ -1,0 +1,6 @@
+register_modify_put_configuration_recorder
+copy
+CLIArgument
+ConfigurationRecorderArgument
+RecordingGroupArgument
+extract_recording_group

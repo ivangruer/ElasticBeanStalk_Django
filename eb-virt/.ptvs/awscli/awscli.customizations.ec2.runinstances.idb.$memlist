@@ -1,0 +1,14 @@
+_fix_args
+NoAssociatePublicIpAddressArgument
+SecondaryPrivateIpAddressesArgument
+EVENTS
+_add_params
+register_runinstances
+SECONDARY_PRIVATE_IP_ADDRESSES_DOCS
+SECONDARY_PRIVATE_IP_ADDRESS_COUNT_DOCS
+SecondaryPrivateIpAddressCountArgument
+_build_network_interfaces
+CustomArgument
+_check_args
+AssociatePublicIpAddressArgument
+ASSOCIATE_PUBLIC_IP_ADDRESS_DOCS
